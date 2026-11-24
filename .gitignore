@@ -1,0 +1,12 @@
+# executáveis compilados
+api_throttling
+http_throttling
+semaforo
+*.exe
+*.o
+build/
+
+# sistema
+.DS_Store
+Thumbs.db
+*.log
